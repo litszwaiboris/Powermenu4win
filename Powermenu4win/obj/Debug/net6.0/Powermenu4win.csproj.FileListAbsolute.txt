@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\Powermenu4win\Powermenu4win\bin\Debug\net6.0\Powermenu4win.exe
+C:\Users\Administrator\source\repos\Powermenu4win\Powermenu4win\bin\Debug\net6.0\Powermenu4win.deps.json
+C:\Users\Administrator\source\repos\Powermenu4win\Powermenu4win\bin\Debug\net6.0\Powermenu4win.runtimeconfig.json
+C:\Users\Administrator\source\repos\Powermenu4win\Powermenu4win\bin\Debug\net6.0\Powermenu4win.dll
+C:\Users\Administrator\source\repos\Powermenu4win\Powermenu4win\bin\Debug\net6.0\Powermenu4win.pdb
+C:\Users\Administrator\source\repos\Powermenu4win\Powermenu4win\obj\Debug\net6.0\Powermenu4win.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Powermenu4win\Powermenu4win\obj\Debug\net6.0\Powermenu4win.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Powermenu4win\Powermenu4win\obj\Debug\net6.0\Powermenu4win.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Powermenu4win\Powermenu4win\obj\Debug\net6.0\Powermenu4win.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Powermenu4win\Powermenu4win\obj\Debug\net6.0\Powermenu4win.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Powermenu4win\Powermenu4win\obj\Debug\net6.0\Powermenu4win.dll
+C:\Users\Administrator\source\repos\Powermenu4win\Powermenu4win\obj\Debug\net6.0\refint\Powermenu4win.dll
+C:\Users\Administrator\source\repos\Powermenu4win\Powermenu4win\obj\Debug\net6.0\Powermenu4win.pdb
+C:\Users\Administrator\source\repos\Powermenu4win\Powermenu4win\obj\Debug\net6.0\Powermenu4win.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Powermenu4win\Powermenu4win\obj\Debug\net6.0\ref\Powermenu4win.dll
