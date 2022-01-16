@@ -10,4 +10,4 @@ Remember to use powershell to execute the .exe file but not cmd because of somet
 
 The macOS and linux version is coming soon!👍 
 
-Developed by a hobbist programming learner who is 12 years old so please regret me and kindly notice me on issues of this repo, thanks!
+Developed by a hobbist programming learner who is 12 years old so if there are any problem please regret me and kindly notice me on issues of this repo, thanks!
