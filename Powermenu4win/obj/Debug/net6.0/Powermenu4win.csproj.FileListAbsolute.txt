@@ -13,3 +13,4 @@ C:\Users\Administrator\source\repos\Powermenu4win\Powermenu4win\obj\Debug\net6.0
 C:\Users\Administrator\source\repos\Powermenu4win\Powermenu4win\obj\Debug\net6.0\Powermenu4win.pdb
 C:\Users\Administrator\source\repos\Powermenu4win\Powermenu4win\obj\Debug\net6.0\Powermenu4win.genruntimeconfig.cache
 C:\Users\Administrator\source\repos\Powermenu4win\Powermenu4win\obj\Debug\net6.0\ref\Powermenu4win.dll
+C:\Users\Administrator\source\repos\Powermenu4win\Powermenu4win\obj\Debug\net6.0\Powermenu4win.csproj.Fody.CopyLocal.cache
