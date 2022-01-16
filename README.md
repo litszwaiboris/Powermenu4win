@@ -4,5 +4,7 @@
 This is an application for executing by shortcut like keylaunch in Rainmeter or using for create shortcut in mouse to easier execute command.
 - Shutdown 
 - Restart 
-- Hibernate (must be enabled in Windows to use this option)
+- Hibernate (must be enabled in Windows to use this option) 😂
 - Logout
+
+Developed by a hobbist programming learner which is 12 years old
